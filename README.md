@@ -1,2 +1,2 @@
 # IGDM
-Instruction-guided distribution for general few-shot intent recognition (under review)
+Instruction-guided distribution maximization for general few-shot intent recognition (under review)
